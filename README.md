@@ -79,11 +79,6 @@
 >
 > *Sparse recovery / compressed sensing research — paper code will be released here.*
 
-### 📝 [sqlmap3.github.io](https://github.com/sqlmap3/sqlmap3.github.io)
-> **个人博客入口。** 访问 [www.sqlmaps.com](https://www.sqlmaps.com/) 阅读我的技术文章。
->
-> *My blog entrance — read my tech articles at [www.sqlmaps.com](https://www.sqlmaps.com/).*
-
 ---
 
 ## 📝 关于我 · About Me
