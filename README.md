@@ -1,18 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm **han wang** · 你好
+# 👋 Hi, I'm **Han Wang**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Design+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+Vim;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+han+wang;%E6%95%B0%E5%AD%97%E9%AA%8C%E8%AF%81%E5%B7%A5%E7%A8%8B%E5%B8%88;%E4%B8%93%E6%B3%A8+SystemVerilog+%2F+UVM+%2F+Vim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Design+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+Vim;Vim+Plugin+Author;Chip+Functional+Verification)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <b>🔬 数字验证工程师</b> · Design Verification Engineer &nbsp;|&nbsp; <b>⌨️ 重度 Vim 用户</b> · Vim Enthusiast
+  <b>🔬 Design Verification Engineer</b> &nbsp;|&nbsp; <b>⌨️ Vim Enthusiast</b>
 </p>
 
 <p align="center">
    <a href="https://github.com/sqlmap3"><img src="https://img.shields.io/badge/GitHub-sqlmap3-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-   <a href="https://www.sqlmaps.com/"><img src="https://img.shields.io/badge/博客-Blog-%23FF7139?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+   <a href="https://www.sqlmaps.com/"><img src="https://img.shields.io/badge/Blog-%23FF7139?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ 技术栈 · Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 数据统计 · GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlmap3&theme=tokyonight" alt="profile details"/>
@@ -58,37 +58,29 @@
 
 ---
 
-## 🚀 精选项目 · Featured Projects
+## 🚀 Featured Projects
 
 ### 🔧 [systemverilog.vim](https://github.com/sqlmap3/systemverilog.vim)
 ![Stars](https://img.shields.io/github/stars/sqlmap3/systemverilog.vim?style=flat-square&color=yellow) ![Vim Script](https://img.shields.io/badge/Vim%20Script-%23019733?style=flat-square&logo=vim&logoColor=white) ![License GPL-2.0](https://img.shields.io/badge/License-GPL--2.0-blue?style=flat-square)
 
-> **Vim / Neovim 的 SystemVerilog & UVM 语法高亮与缩进插件。** 修复缩进边界（case 标签、单行 `if`、分组块），新增 UVM 专属高亮，并补全 matchit 配对。
->
-> *SystemVerilog & UVM syntax highlighting and indent plugin for Vim/Neovim. Fixes indentation edge cases, adds UVM highlighting, and completes matchit pairs.*
+> SystemVerilog & UVM syntax highlighting and indent plugin for Vim/Neovim. Fixes indentation edge cases, adds UVM highlighting, and completes matchit pairs.
 
 ### 🔍 [sv_trace](https://github.com/sqlmap3/sv_trace)
 ![Vim Script](https://img.shields.io/badge/Vim%20Script-%23019733?style=flat-square&logo=vim&logoColor=white)
 
-> **Verilog / SystemVerilog / UVM 信号与变量追踪插件。** 跨工程追溯信号的声明、驱动源与负载点，支持跨层跳转、层次树、Mermaid 电路拓扑导出。
->
-> *Signal/variable tracing plugin for Verilog/SystemVerilog/UVM — traces declarations, drivers and loads across your project, with hierarchy trees and Mermaid topology export.*
+> Signal/variable tracing plugin for Verilog/SystemVerilog/UVM — traces declarations, drivers and loads across your project, with hierarchy trees and Mermaid topology export.
 
 ### 📡 [Sparse-recovery](https://github.com/sqlmap3/Sparse-recovery)
-> **稀疏恢复 / 压缩感知相关研究。** 论文配套代码将在此发布。
->
-> *Sparse recovery / compressed sensing research — paper code will be released here.*
+> Sparse recovery / compressed sensing research — paper code will be released here.
 
 ---
 
-## 📝 关于我 · About Me
+## 📝 About Me
 
-- 🔬 **Design Verification Engineer** — 专注于 **SystemVerilog / UVM** 的芯片功能验证
-- ⌨️ **Vim 重度用户** — 日常用 Vim 写代码，还顺手写插件（`systemverilog.vim`、`sv_trace`）
-- 📚 **爱好折腾工具** — 从 Vim 配置到工作流自动化，喜欢把重复劳动交给脚本
-- 🌱 **正在学习** — 更高效的验证方法学 & 编辑器进阶技巧
-
-> *Design Verification Engineer focused on SystemVerilog/UVM functional verification. A Vim power user who also writes plugins. Love automating the boring stuff.*
+- 🔬 **Design Verification Engineer** — focused on **SystemVerilog / UVM** chip functional verification
+- ⌨️ **Vim power user** — writes code in Vim daily and builds plugins (`systemverilog.vim`, `sv_trace`)
+- 📚 **Tooling tinkerer** — from Vim config to workflow automation, I script away the boring stuff
+- 🌱 **Currently learning** — better verification methodologies & advanced editor skills
 
 ---
 
@@ -97,5 +89,5 @@
 </p>
 
 <p align="center">
-  <sub>Thanks for stopping by · 感谢来访 👋</sub>
+  <sub>Thanks for stopping by 👋</sub>
 </p>
