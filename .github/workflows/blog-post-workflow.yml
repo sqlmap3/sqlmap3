@@ -21,3 +21,5 @@ jobs:
         with:
           feed_list: "https://www.sqlmaps.com/atom.xml"
           max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "$newline- $randomEmoji(💡,📌,🚀,📚,🔬) [$title]($url) — $date"
