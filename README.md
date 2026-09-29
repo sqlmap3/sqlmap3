@@ -75,6 +75,15 @@
 
 ---
 
+## 📰 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><sub>→ More at [www.sqlmaps.com](https://www.sqlmaps.com/)</sub></p>
+
+---
+
 ## 📝 About Me
 
 - 🔬 **Design Verification Engineer** — focused on **SystemVerilog / UVM** chip functional verification
