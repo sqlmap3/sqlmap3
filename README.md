@@ -12,8 +12,7 @@
 
 <p align="center">
    <a href="https://github.com/sqlmap3"><img src="https://img.shields.io/badge/GitHub-sqlmap3-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-   <a href="https://www.cnblogs.com/LeslieQ"><img src="https://img.shields.io/badge/博客-Blog-%23FF7139?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-   <a href="mailto:demodalao@gmail.com"><img src="https://img.shields.io/badge/Email-demodalao%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+   <a href="https://www.sqlmaps.com/"><img src="https://img.shields.io/badge/博客-Blog-%23FF7139?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 <p align="center">
@@ -25,18 +24,19 @@
 ## 🛠️ 技术栈 · Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,python,c,cpp,linux,git,docker,vscode,markdown,latex,bash,html,css,js,githubactions,perl" alt="skill icons"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SystemVerilog-%230072C6?style=for-the-badge&logo=sv&logoColor=white" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/Linux-%23E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23E16737?style=for-the-badge" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/UVM-%233CB371?style=for-the-badge" alt="UVM"/>
-  <img src="https://img.shields.io/badge/Verilog-%23F7A600?style=for-the-badge" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/Vim_Script-%23019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Script"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-%230072C6?style=for-the-badge" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/Verilog-%23E68A00?style=for-the-badge" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl"/>
   <img src="https://img.shields.io/badge/Tcl-%23E12E2E?style=for-the-badge" alt="Tcl"/>
+  <img src="https://img.shields.io/badge/VimL-%23019733?style=for-the-badge&logo=vim&logoColor=white" alt="VimL"/>
   <img src="https://img.shields.io/badge/Makefile-%236D6D6D?style=for-the-badge" alt="Makefile"/>
+  <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Markdown-%23343A40?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 </p>
 
 ---
@@ -80,9 +80,9 @@
 > *Sparse recovery / compressed sensing research — paper code will be released here.*
 
 ### 📝 [sqlmap3.github.io](https://github.com/sqlmap3/sqlmap3.github.io)
-> **个人博客入口。** 访问 [blog](https://www.cnblogs.com/LeslieQ) 阅读我的技术文章。
+> **个人博客入口。** 访问 [www.sqlmaps.com](https://www.sqlmaps.com/) 阅读我的技术文章。
 >
-> *My blog entrance — read my tech articles at [blog](https://www.cnblogs.com/LeslieQ).*
+> *My blog entrance — read my tech articles at [www.sqlmaps.com](https://www.sqlmaps.com/).*
 
 ---
 
