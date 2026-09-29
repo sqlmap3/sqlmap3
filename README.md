@@ -44,8 +44,12 @@
 ## 📊 数据统计 · GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sqlmap3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqlmap3&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlmap3&theme=tokyonight" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sqlmap3&theme=tokyonight" alt="stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sqlmap3&theme=tokyonight" alt="languages"/>
 </p>
 
 <p align="center">
