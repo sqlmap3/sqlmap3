@@ -78,6 +78,11 @@
 ## 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UVM接口信号同步机制](https://sqlmaps.com/2026/08/19/UVM%E6%8E%A5%E5%8F%A3%E4%BF%A1%E5%8F%B7%E5%90%8C%E6%AD%A5%E6%9C%BA%E5%88%B6/)
+- [UVM调试功能全解析](https://sqlmaps.com/2026/08/19/UVM%E8%B0%83%E8%AF%95%E5%8A%9F%E8%83%BD%E5%85%A8%E8%A7%A3%E6%9E%90/)
+- [UVM Sequence 学习记录](https://sqlmaps.com/2026/08/01/UVM-Sequence%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
+- [Common 分解](https://sqlmaps.com/2026/08/01/Common%E5%88%86%E8%A7%A3/)
+- [SystemVerilog 宏使用指南](https://sqlmaps.com/2026/08/01/SystemVerilog%E5%AE%8F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><sub>→ More at [www.sqlmaps.com](https://www.sqlmaps.com/)</sub></p>
